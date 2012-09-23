@@ -16,7 +16,7 @@ float y_location = 0;
 void setup() {
   pinMode(x_pin, OUTPUT);
   pinMode(y_pin, OUTPUT);
-  Serial.begin(14400);
+  Serial.begin(19200);
 }
 
 
